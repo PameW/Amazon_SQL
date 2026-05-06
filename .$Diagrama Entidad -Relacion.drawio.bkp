@@ -1,0 +1,117 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Página-1" id="SZIlAiTwc6OKAzBQn72c">
+    <mxGraphModel dx="2072" dy="1212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-1" value="LISTADO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="335" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="llw8hwIbUcZGW6ujDGmn-2" target="llw8hwIbUcZGW6ujDGmn-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="150" />
+              <mxPoint x="530" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-2" value="ID (PK)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="112" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-3" value="ANFITRIONES" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-4" value="UBICACION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-5" value="REVIEWS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-7" value="BAÑOS" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="512" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-8" value="HABITACIONES" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="577" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-9" value="CAPACIDAD" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="642" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-10" value="NOMBRE" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="180" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-11" value="ANFITRION_ID (FK)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="248" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-12" value="BARRIO (FK)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="333" y="315" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-13" value="PROPIEDAD_TIPO" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="381" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-14" value="HABITACION_TIPO" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="336" y="447" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-20" value="DIPONIBILIDAD_365" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="897" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-21" value="MINIMO_NOCHES" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="834" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-22" value="PRECIO" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="770" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-23" value="CAMAS" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="706" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-24" value="RESERVA_INMEDIATA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="324" y="961" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-25" value="ANFITRION_TIEMPO_RESPUESTA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4" y="330" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-26" value="ANFITRION_DESDE" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="28" y="260" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-27" value="ANFITRION_NOMBRE" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="23" y="190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="llw8hwIbUcZGW6ujDGmn-28" target="llw8hwIbUcZGW6ujDGmn-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-28" value="ANFITRION_ID (PK)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-30" value="SUPER_ANFITRION" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="31" y="400" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="llw8hwIbUcZGW6ujDGmn-31" target="llw8hwIbUcZGW6ujDGmn-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-31" value="BARRIO (PK)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="626.25" y="120" width="127.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-32" value="CIUDAD" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-33" value="LONGITUD" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1089" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-34" value="LATITUD" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1025" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-35" value="REVIEW_ID (PK)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="635" y="590" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-36" value="ID (FK)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="635" y="660" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llw8hwIbUcZGW6ujDGmn-37" value="PUNTUACION_CALIFICACION" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="596" y="730" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JFYhgqLAhfeCUbvUMOYT-1" value="NUMERO_REVIEWS" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="602.5" y="800" width="175" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
